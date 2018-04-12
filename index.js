@@ -15,6 +15,7 @@ function yourAnimal() {
 function add(n, 2) {
   // Feel free to move things around!
   const two = 2
+  
 }
 
 var funkyFunction = function() {
