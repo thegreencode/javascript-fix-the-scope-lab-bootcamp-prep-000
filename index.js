@@ -12,7 +12,7 @@ function yourAnimal() {
   return animal
 }
 
-function add2(n) {
+function add(n, 2) {
   // Feel free to move things around!
   const two = 2
   parseInt('two', 10)
